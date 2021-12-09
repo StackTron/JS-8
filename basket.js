@@ -69,3 +69,5 @@ function renderNewProductInBasket(productId) {
     `;
     totalBask.insertAdjacentHTML("beforebegin", productRow);
 }
+
+// не могу понять где ошибка
